@@ -70,23 +70,71 @@
         // kub maydoni ${kubMaydoni} sm kvadrat`)
 
 
-//Vazifa- 
+//Vazifa- 14.	Parallipipedning tomonlari a,b,c berilgan. Uning hajmini V=a*b*c va yuzasi  S=2*(a*b+b*c+a*c) topilsin
+
+        // let tomonA = Number(prompt("A tomonni kiriting"))
+        // let tomonB = Number(prompt("B tomonni kiriting"))
+        // let tomonC = Number(prompt("C tomonni kiriting"))
+
+        // let hajmi = tomonA*tomonB*tomonC
+        // let yuzasi = 2* (tomonA*tomonB+tomonB*tomonC+tomonA*tomonC)
+        // alert(`Parallipipedning hajmi ${hajmi}
+        //         Yuzasi ${yuzasi} `)
 
 
+//Vazifa-15. Aylananing radiusi R berilgan. Uning uzunligi   va yuzasi  
 
 
+        // let aylanaRadiusi = Number(prompt("aylana radiusini kirting"))
+        
+        // const pi = 3.14
+        // let aylanaUzunligi = 2* pi *aylanaRadiusi
+        // let aylanaYuzasi = pi * Math.pow(aylanaRadiusi,2)
+        // console.log
+        // (`Aylana uzunligi ${aylanaUzunligi}
+        // Aylana yuzasi ${aylanaYuzasi}`);
 
 
+//Vazifa-16. A va B qiymat berilgan. O’rta arifmetikini toping (a+b)/2
+
+        // let son1 = Number(prompt("1-son kirting"))
+        // let son2 = Number(prompt("2-son kirting"))
+        // let ortaArifmetigi =(son1+son2)/2
+        // console.log(`o'rta arifmetigi ${ortaArifmetigi}`);
 
 
+//Vazifa-17. A va B berilgan. Ularning o’rta geometriyasini toping. 
+
+        // let son3 = Number(prompt("1-son kirting"))
+        // let son4 = Number(prompt("2-son kirting"))
+
+        // let geometrigi = Math.sqrt(son3*son4)
+        // console.log(`orta geometrigi ${geometrigi}`);
 
 
+//Vazifa-18 A va B berilgan. Ularning yig’indisi, ayirmasi, ko’paytmasi va o’zaro qoldiqi topilsin
 
+        // let sonA = Number(prompt("A ga qiymat bering"))
+        // let sonB = Number(prompt("B ga qiymat bering"))
+        // let yigindi = sonA + sonB
+        // let ayirma = sonA - sonB
+        // let kopaytma =sonA * sonB
+        // let qoldiq = sonA % sonB
+        // console.log(`sonlarning yig'indisi=> ${yigindi}
+        // sonlarning ayirmasi => ${ayirma}
+        // sonlarning ko'paytmasi => ${kopaytma}
+        // sonlarning qolqig'i => ${qoldiq}`);
 
+//Vazifa-19 Uchburchakning a va b tomoni berilgan. Uchburchakning 3-tomoni c ni toping va perimetrini  
 
+        // let uchburchakA =Number(prompt("uhburchakni A tomoni kirting"))
+        // let uchburchakB = Number(prompt("uchburchakni B tomonini kirting"))
 
+        // let uchburchakC = Math.sqrt(Math.pow(uchburchakA,2)+ Math.pow(uchburchakB,2))
+        // let uchburchakPerimetri = uchburchakA + uchburchakB + uchburchakC
 
-
+        // console.log(`uchburchakni C tomoni ${uchburchakC.toFixed(1)} ga teng
+        // uchburchakni Perimetri ${uchburchakPerimetri.toFixed(1)} ga teng`);
 
 
 
