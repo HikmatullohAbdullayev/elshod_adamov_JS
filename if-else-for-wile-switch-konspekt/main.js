@@ -72,6 +72,10 @@
         // console.log("boshqa narsa yoz");
         // }
 
+//Tanlovchi operator 
+//switch case break default
+
+//Takrorlanuvchi operator
+//for while 
 
 
-        
