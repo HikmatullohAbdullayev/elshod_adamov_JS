@@ -75,7 +75,21 @@
 //Tanlovchi operator 
 //switch case break default
 
-//Takrorlanuvchi operator
+//Takrorlanuvchi operatorw
 //for while 
+
+// for operatorida 3ta qiymat bor bular (Boshlanishi , Davomiylgi , Oshib borishi)
+
+// for ( boshlang'ich qiymat; davomiyligi; kopayib borishi  ){
+//         for ichidagi ammallar
+// }
+
+
+// let n =Number(prompt("son kirt"))
+// for (let i = 1; i <= 10; i++ ){
+//         console.log(n);
+//         n += i
+// }
+
 
 
