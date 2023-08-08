@@ -246,27 +246,27 @@
 
 //Qoshimcha -- kalkulayator
 
-    // let son1 = Number(prompt("son kiriting"))
-    // let ishora =  prompt("ishorani kirting (+ , - , * , /)")
-    // let son2 = Number(prompt("ikkinchi ishorani kirting"))
+    let son1 = Number(prompt("son kiriting"))
+    let ishora =  prompt("ishorani kirting (+ , - , * , /)")
+    let son2 = Number(prompt("ikkinchi ishorani kirting"))
 
-    // switch (ishora) {
-    //     case '+' : 
-    //     alert(`${son1}+${son2} = ${son1+son2}`)
-    //         break;
-    //         case '-' : 
-    //         alert(`${son1}-${son2} = ${son1-son2}`)
-    //             break;
-    //             case '*' : 
-    //             alert(`${son1}*${son2} = ${son1*son2}`)
-    //                 break;
-    //                 case '/' : 
-    //                 alert(`${son1}/${son2} = ${son1/son2}`)
-    //                     break;
+    switch (ishora) {
+        case '+' : 
+        alert(`${son1}+${son2} = ${son1+son2}`)
+            break;
+            case '-' : 
+            alert(`${son1}-${son2} = ${son1-son2}`)
+                break;
+                case '*' : 
+                alert(`${son1}*${son2} = ${son1*son2}`)
+                    break;
+                    case '/' : 
+                    alert(`${son1}/${son2} = ${son1/son2}`)
+                        break;
                             
-    //     default:alert("bunday ishora yo'q")
-    //         break;
-    // }
+        default:alert("bunday ishora yo'q")
+            break;
+    }
 
 
 //Switch bilan 
@@ -317,7 +317,7 @@
 
 //Vazifa-2 Jadvalda berilgan N sonigacha bo'lgan sonlarni kvadratini chiqaring
 
-    let n = Number(prompt("son kirting"))
+    // let n = Number(prompt("son kirting"))
 
     // for (i = 1; i <= n; i++){
     //     console.log( Math.pow(i,2));
@@ -375,7 +375,4 @@
 
 //Vazifa-8 Berilgan 100 gr ni Price bahosi bo'yicha 1 kg gacha bo'lgan baholar jadvalini chiqaring
 
-let narx = 1.65
-for (let i = 100; i <= n; i += 100){
-    console.log( narx*n);
-}
+ 
