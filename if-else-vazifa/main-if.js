@@ -246,27 +246,28 @@
 
 //Qoshimcha -- kalkulayator
 
-    let son1 = Number(prompt("son kiriting"))
-    let ishora =  prompt("ishorani kirting (+ , - , * , /)")
-    let son2 = Number(prompt("ikkinchi ishorani kirting"))
+    // let son1 = Number(prompt("son kiriting"))
+    // let ishora =  prompt("ishorani kirting (+ , - , * , /)")
+    // let son2 = Number(prompt("ikkinchi ishorani kirting"))
 
-    switch (ishora) {
-        case '+' : 
-        alert(`${son1}+${son2} = ${son1+son2}`)
-            break;
-            case '-' : 
-            alert(`${son1}-${son2} = ${son1-son2}`)
-                break;
-                case '*' : 
-                alert(`${son1}*${son2} = ${son1*son2}`)
-                    break;
-                    case '/' : 
-                    alert(`${son1}/${son2} = ${son1/son2}`)
-                        break;
-                            
-        default:alert("bunday ishora yo'q")
-            break;
-    }
+    // switch (ishora) {
+    //   case "+":
+    //     alert(`${son1}+${son2} = ${son1 + son2}`);
+    //     break;
+    //   case "-":
+    //     alert(`${son1}-${son2} = ${son1 - son2}`);
+    //     break;
+    //   case "*":
+    //     alert(`${son1}*${son2} = ${son1 * son2}`);
+    //     break;
+    //   case "/":
+    //     alert(`${son1}/${son2} = ${son1 / son2}`);
+    //     break;
+
+    //   default:
+    //     alert("bunday ishora yo'q");
+    //     break;
+    // }
 
 
 //Switch bilan 
